@@ -1,0 +1,34 @@
+{
+  "download": 56817576.69942702,
+  "upload": 10560159.293641347,
+  "ping": 19.133,
+  "server": {
+    "url": "http://speedtest.cosmote.net:8080/speedtest/upload.php",
+    "lat": "40.6500",
+    "lon": "22.9000",
+    "name": "Thessaloniki",
+    "country": "Greece",
+    "cc": "GR",
+    "sponsor": "Cosmote S.A.",
+    "id": "2105",
+    "host": "speedtest.cosmote.net:8080",
+    "d": 4.060550871575592,
+    "latency": 19.133
+  },
+  "timestamp": "2020-11-07T11:41:24.227425Z",
+  "bytes_sent": 13303808,
+  "bytes_received": 72192682,
+  "share": null,
+  "client": {
+    "ip": "8.9.10.11",
+    "lat": "40.6381",
+    "lon": "22.9455",
+    "isp": "Cosmote",
+    "isprating": "3.7",
+    "rating": "0",
+    "ispdlavg": "0",
+    "ispulavg": "0",
+    "loggedin": "0",
+    "country": "GR"
+  }
+}
