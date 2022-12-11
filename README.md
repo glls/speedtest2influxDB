@@ -9,4 +9,4 @@ Utility to send internet speed metrics provided by speedtest-cli to influxDB
 
 ## notes
 
-by default instead running a speedtest, the results are loaded from data/sample.json 
+by default, to save time for testing, instead of running a speedtest, the results are loaded from data/sample.json
